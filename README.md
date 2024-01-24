@@ -2,8 +2,6 @@
 
 ## Ola! Sou o Lucas Pellegrini
 
----
-
 ### Sobre Mim
 - Sou aluno de Ciência da Computação pela UFU (Universidade Federal de Uberlândia) desde 03/2020;
 - Sou apaixonado por computação e muito contente com meu curso;
@@ -30,7 +28,7 @@
 
 ### Atualmente estudando
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rust" height="30" width="40" fill="C45508" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
+  <img align="center" alt="Rust" height="30" width="40" background-color="C45508" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
   <img align="center" alt="Ts" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" alt="Angular" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
 </div>
