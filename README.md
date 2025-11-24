@@ -3,14 +3,14 @@
 ## Ola! Sou o Lucas Pellegrini
 
 ### Sobre Mim
-- Sou aluno de Ciência da Computação pela UFU (Universidade Federal de Uberlândia) desde 03/2020;
+- Sou Bacharel em Ciência da Computação pela UFU (Universidade Federal de Uberlândia) (2020 - 2025);
 - Sou natural de São José do Rio Preto - SP, mas atualmente resido em Uberlândia - MG;
 - Além de português, falo inglês;
 - Tenho interesse principalmente em:
+  - Inteligência Artificial.
   - Desenvolvimento web.
   - Desenvolvimento de software.
   - Ciência de Dados.
-  - Inteligência Artificial.
 
 ---
 
@@ -23,7 +23,7 @@
   <img align="center" alt="Js" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="HTML" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" alt="CSS" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="center" alt="Postgre" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <img align="center" alt="Postgres" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 </div>
 
 ### Atualmente estudando
