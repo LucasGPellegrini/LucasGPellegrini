@@ -4,6 +4,7 @@
 
 ### Sobre Mim
 - Sou Bacharel em Ciência da Computação pela UFU (Universidade Federal de Uberlândia) (2020 - 2025);
+- Sou Mestrando em Ciência da Computação, pela UFU (Universidade Federal de Uberlândia) (2026 - ?), pesquisando na área de Inteligência Artificial.
 - Sou natural de São José do Rio Preto - SP, mas atualmente resido em Uberlândia - MG;
 - Além de português, falo inglês;
 - Tenho interesse principalmente em:
